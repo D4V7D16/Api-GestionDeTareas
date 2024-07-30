@@ -31,6 +31,9 @@ Usa el código con precaución.
 
 Terminal de preferencia
 npm run dev
+Visualizar video de prueba con postman
+
+https://drive.google.com/file/d/1N2vnAMMpSiquO5XTLI5obPElT3k5Otrr/view?usp=sharing
 
 Estructura de la Aplicación:
 
