@@ -47,11 +47,10 @@ config: Contiene la configuración de la aplicación.
 
 Endpoints disponibles:
 
-GET /server: Obtiene respuesta del servidor en el puerto 3000.
-POST /task: Crea una nueva tarea.
-GET /task/Obtiene tareas disponibles.
-PUT /task/:id: Actualiza una tarea por su id.
-DELETE /task/:id: Elimina una tarea por su id.
+POST api/task: Crea una nueva tarea.
+GET api/task/Obtiene tareas disponibles.
+PUT api/task/:id: Actualiza una tarea por su id.
+DELETE api/task/:id: Elimina una tarea por su id.
 
 Autores:
 David Salamanca
